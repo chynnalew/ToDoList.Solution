@@ -1,14 +1,20 @@
-using System;
-using System.Collections.Generic;
-using ToDoList.Models;
+using System.IO;
+using Microsoft.AspNetCore.Hosting;
 
-namespace Program
+namespace ToDoList
 {
-  public class YourClass
+  public class Program
   {
-    static void Main()
+    public static void Main(string[] args)
     {
-    
+      var host = new WebHostBuilder()
+        .UseKestrel()
+        .UseContentRoot(Directory.GetCurrentDirectory())
+        .UseIISIntegration()
+        .UseStartup<Startup>()
+        .Build();
+
+      host.Run();
     }
   }
 }
