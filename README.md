@@ -2,7 +2,7 @@
 
 #### A simple application allowing the user to add items to a list.
 
-#### Created By: Name
+#### Created By: Chynna Lew
 
 ## Technologies Used
 
