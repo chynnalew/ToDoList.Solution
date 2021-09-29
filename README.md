@@ -2,7 +2,7 @@
 
 #### A simple application allowing the user to add items to a list.
 
-#### Created By: Name
+#### Created By: Chynna Lew
 
 ## Technologies Used
 
@@ -37,10 +37,10 @@ This is a practice project used to learn use of multiple controllers in ASP.Net 
 * To run the tests:
   - You must restore and build the project first, as outlined previously in these instructions.
   - In the terminal (navigated to the ToDoList.Solution/ToDoList .tests folder) run the command "$ dotnet test"
-* To run the console application:
+* To run the application:
   - Navigate to the ToDoList.Solution/ToDoList folder in the terminal
   - Run the command "$ dotnet run" 
-  - The application will run in the console
+  - The application will run in the browser
 ## Known Bugs
 
 * no known bugs
