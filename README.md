@@ -1,56 +1,54 @@
-# To Do List
+# _To Do List_
 
-#### A simple application allowing the user to add items to a list.
+#### An epicodus project
 
-#### Created By: Chynna Lew
+#### By Chynna Lew
 
 ## Technologies Used
 
-* C#
-* .NET 5
-* MSTest
-* NuGet
-* ASP.NET Core
+* _C#_
+* _.NET 5_
+* _MSTest_
+* _NuGet_
+* _ASP.NET Core_
 
 ## Description
 
-This is a practice project used to learn use of multiple controllers in ASP.Net Core MVP at Epicodus bootcamp. 
+This project was created to learn ASP.Net Core Mvc
 
-## Setup and Usage Instructions
+## Instructions
 
 ### Technology Requirements
 
-* Download and install [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
-* Download and install a code text editor. Ex: [VS Code](https://code.visualstudio.com/)
+* [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
+* A text editor like [VS Code](https://code.visualstudio.com/)
 
-### Installation
+### Setup/Installation
 
-* Clone [this](github.com/yourName/ToDoList.Solution) repository, or download and open the Zip on your local machine
-* Open the ToDoList.Solution/ToDoList folder in your preferred text editor
 * Restore and build the project:
-  - Navigate to the ToDoList.Solution/ToDoList  folder in the command line or terminal 
-    -- Run the command "$ dotnet restore" to restore the project dependencies
-    -- Run the command "$ dotnet build" to build and compile the project
-  - Navigate to the ToDoList.Solution/ToDoList .tests folder in the command line or terminal 
-    -- Run the command "$ dotnet restore" to restore the test project dependencies
-    -- Run the command "$ dotnet build" to build and compile the test project
-* To run the tests:
+  - Navigate to the NAME/name folder in the command line or terminal 
+    -- Run the command ```dotnet restore``` to restore the project dependencies
+    -- Run the command ```dotnet build``` to build and compile the project
+  - Navigate to the NAME/name.tests folder in the command line or terminal 
+    -- Run the command ```dotnet restore``` to restore the test project dependencies
+    -- Run the command ```dotnet build``` to build and compile the test project
+* Testing:
   - You must restore and build the project first, as outlined previously in these instructions.
-  - In the terminal (navigated to the ToDoList.Solution/ToDoList .tests folder) run the command "$ dotnet test"
-* To run the application:
-  - Navigate to the ToDoList.Solution/ToDoList folder in the terminal
-  - Run the command "$ dotnet run" 
-  - The application will run in the browser
+  - In the terminal (navigated to the Name/name.tests folder) run the command ```dotnet test```
+* Run Console App:
+  - Navigate to the NAME/name folder in the terminal
+  - Run the command ```dotnet run``` 
+  - The application will run in the console
+
 ## Known Bugs
 
-* no known bugs
+* _Any known issues_
+* _should go here_
 
-### License
+## License
 
-[MIT License](https://opensource.org/licenses/MIT)
-Copyright 2021 Chynna Lew
+MIT
 
-## Support and contact details
+## Contact Information
 
-* [Chynna Lew](github.com/ChynnaLew) 
-* <chynnalew@yahoo.com>
+Chynna Lew <chynnalew@yahoo.com>
