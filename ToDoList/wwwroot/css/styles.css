@@ -39,3 +39,7 @@ div#header {
 .column a {
   color:#fff;
 }
+
+.container {
+  margin-top: 40px;
+}
